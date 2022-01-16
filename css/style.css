@@ -111,6 +111,13 @@ body {
 .fa-star {
   color: orange;
 }
+.see-more {
+  float: right;
+}
+.see-more-button {
+  color: #e02c6d;
+  text-decoration: none;
+}
 .footer {
   background-color: #0a0826;
   padding-top: 40px;
